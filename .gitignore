@@ -43,6 +43,7 @@ dist/
 
 # Package files
 *.jar
+*.txt
 
 # Maven
 target/
